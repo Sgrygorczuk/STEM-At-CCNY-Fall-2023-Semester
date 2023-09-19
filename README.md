@@ -1,4 +1,4 @@
-# STEM_Game_Development_Summer_2022
+# STEM_Game_Development_Fall_2023
 
 This repository holds all of the lesson plans, homework, and tests created for the 2023 Fall Session of Game Development and Design class at The STEM Institute at CCNY.
  
