@@ -8,15 +8,15 @@ The class was broken down into thirteen weeks where students undertake different
 
 ## Syllabus & Report Card  ##
 
-* [Syllabus]()
+* [Syllabus](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/STEM%20Syllabus%20Game%20Design%20and%20Development.pdf)
 
 - - - -
 
 ## Week 1: Introductions to Game Development  ##
 Covering the different roles that exist in the game development industry, starting conversation on what games they were intending on creating and exploring the Unity, Visual Studio and GitHub Desktop software that the students used through the semester. 
 
-* [Lesson 1]()
-* [Lesson 2]()
+* [Lesson 1](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%201/Lesson_1.pdf)
+* [Lesson 2](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%201/Lesson_2.pdf)
 
 - - - -
 
