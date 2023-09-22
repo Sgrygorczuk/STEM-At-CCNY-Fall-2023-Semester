@@ -28,7 +28,7 @@ Covering the different roles that exist in the game development industry, starti
 ## Week 2: 3D Game Development  ##
 Exploring textures, materials, prefabricated objects, utilizing the Unity Asset Store, delving into 3D physics, and constructing a 3D environment.
 
-* [Lesson 3](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%201/Lesson_1.pdf)
+* [Lesson 3](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%202/Lesson_3.pdf)
 * [Lesson 3 Project Files](https://github.com/Sgrygorczuk/Week_1_Lesson_2)
 
 - - - -
