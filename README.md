@@ -6,9 +6,12 @@ The class was broken down into thirteen weeks where students undertake different
 
 - - - -
 
-## Syllabus & Report Card  ##
+## Syllabus & Install Instructions ##
 
 * [Syllabus](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/STEM%20Syllabus%20Game%20Design%20and%20Development.pdf)
+* [GitHub Desktop](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Install%20Instructions/Installing%20GitHub%20Desktp.pdf)
+* [Visual Studio](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Install%20Instructions/Installing%20Visual%20Studio.pdf)
+* [Untity Hub & Unity Editor](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Install%20Instructions/Installing%20Unity.pdf)
 
 - - - -
 
@@ -19,6 +22,14 @@ Covering the different roles that exist in the game development industry, starti
 * [Lesson 2](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%201/Lesson_2.pdf)
 * [Lesson 2 Project Files](https://github.com/Sgrygorczuk/Week_1_Lesson_1)
 * [Homework 1](https://forms.gle/1nDXnvx9cUtNnXBA9)
+
+- - - -
+
+## Week 2: 3D Game Development  ##
+Exploring textures, materials, prefabricated objects, utilizing the Unity Asset Store, delving into 3D physics, and constructing a 3D environment.
+
+* [Lesson 3](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%201/Lesson_1.pdf)
+* [Lesson 3 Project Files](https://github.com/Sgrygorczuk/Week_1_Lesson_2)
 
 - - - -
 
