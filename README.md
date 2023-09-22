@@ -18,6 +18,7 @@ Covering the different roles that exist in the game development industry, starti
 * [Lesson 1](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%201/Lesson_1.pdf)
 * [Lesson 2](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%201/Lesson_2.pdf)
 * [Lesson 2 Project Files](https://github.com/Sgrygorczuk/Week_1_Lesson_1)
+* [Homework 1](https://forms.gle/1nDXnvx9cUtNnXBA9)
 
 - - - -
 
