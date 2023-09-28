@@ -30,6 +30,8 @@ Exploring textures, materials, prefabricated objects, utilizing the Unity Asset 
 
 * [Lesson 3](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%202/Lesson_3.pdf)
 * [Lesson 3 Project Files](https://github.com/Sgrygorczuk/Week_1_Lesson_2)
+* [Homework 2](https://forms.gle/pUbR5jiApybBodQw7)
+* [Homework 2 Project Files](https://github.com/Sgrygorczuk/Homework_1)
 
 - - - -
 
