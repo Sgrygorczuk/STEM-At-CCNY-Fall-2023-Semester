@@ -25,6 +25,7 @@ Covering the different roles that exist in the game development industry, starti
 
 - - - -
 
+
 ## Week 2: 3D Game Development  ##
 Exploring textures, materials, prefabricated objects, utilizing the Unity Asset Store, delving into 3D physics, and constructing a 3D environment.
 
@@ -32,6 +33,14 @@ Exploring textures, materials, prefabricated objects, utilizing the Unity Asset 
 * [Lesson 3 Project Files](https://github.com/Sgrygorczuk/Week_1_Lesson_2)
 * [Homework 2](https://forms.gle/pUbR5jiApybBodQw7)
 * [Homework 2 Project Files](https://github.com/Sgrygorczuk/Homework_1)
+
+- - - -
+
+## Week 3: Lab 1 ##
+Putting the lessons to the test and creating our first 3D games using terrain system, textruing, materials and more. The game will consist of the player moving a ball around the level(students construct to the end goal where a new level will be started.
+
+* [Lab 1](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%203/Lab%201.pdf)
+* [Lab 1 Project Files](https://github.com/Sgrygorczuk/Lab_1)
 
 - - - -
 
