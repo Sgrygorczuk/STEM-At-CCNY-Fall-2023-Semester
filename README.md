@@ -13,6 +13,8 @@ The class was broken down into thirteen weeks where students undertake different
 * [Visual Studio](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Install%20Instructions/Installing%20Visual%20Studio.pdf)
 * [Untity Hub & Unity Editor](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Install%20Instructions/Installing%20Unity.pdf)
 
+* [How To Use GitHub Desktop](https://www.youtube.com/watch?v=4HPUHxDMT2c)
+
 - - - -
 
 ## Week 1: Introductions to Game Development  ##
