@@ -38,12 +38,13 @@ Exploring textures, materials, prefabricated objects, utilizing the Unity Asset 
 
 - - - -
 
-## Week 3: Lab 1 ##
+## Week 3: Lab 1 - 3D Game Development  ##
 Putting the lessons to the test and creating our first 3D games using terrain system, textruing, materials and more. The game will consist of the player moving a ball around the level(students construct to the end goal where a new level will be started.
 
 * [Lab 1](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%203/Lab%201.pdf)
 * [Lab 1 Project Files](https://github.com/Sgrygorczuk/Lab_Unity_3D)
 * [Lab 1 Submission](https://forms.gle/BCygDRVknLsevATM9)
+  
 - - - -
 
 ## Week 4: 2D Games and User Interface ##
@@ -56,5 +57,14 @@ Investigating the creation of 2D game using Sprites, 2D Physics, Collisions, usi
 * [Homework 3 Project Files](https://github.com/Sgrygorczuk/Homework_Unity_2D)
 * [Lesson 5](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%204/Lesson_5.pdf)
 * [Lesson 5 Project Files](https://github.com/Sgrygorczuk/Lesson_User_Interface)
+* 
+- - - -
 
+## Week 5: Lab 2 - 2D Games and User Interface & Introdcution to C# ##
+Putting the lessons to the test and creating our first 2D game while implementing ideas of User Interfaces. Students will create a two scene game wiht one scene being a main menu and a second that's gameplay. The student will also begin to learn about the basic elements of C# and how to use it to manipulate games.
 
+* [Lab 1](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%205/Lab%202.pdf)
+* [Lab 1 Project Files](https://github.com/Sgrygorczuk/Lab_Unity_2D_And_User_Interface)
+* [Lab 1 Submission](https://forms.gle/XZjKr9dakH4TPAHy8)
+  
+- - - -
