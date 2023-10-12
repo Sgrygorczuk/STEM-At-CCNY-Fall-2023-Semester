@@ -54,7 +54,7 @@ Investigating the creation of 2D game using Sprites, 2D Physics, Collisions, usi
 * [Homework 3](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%204/Homework%203%20-%20Unity%202D.pdf)
 * [Homework 3 Submission](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%204/Homework%203%20-%20Unity%202D.pdf)
 * [Homework 3 Project Files](https://github.com/Sgrygorczuk/Homework_Unity_2D)
-* [Lesson 4](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%204/Lesson_5.pdf)
+* [Lesson 5](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%204/Lesson_5.pdf)
 * [Lesson 5 Project Files](https://github.com/Sgrygorczuk/Lesson_User_Interface)
 
 
