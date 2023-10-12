@@ -63,8 +63,8 @@ Investigating the creation of 2D game using Sprites, 2D Physics, Collisions, usi
 ## Week 5: Lab 2 - 2D Games and User Interface & Introdcution to C# ##
 Putting the lessons to the test and creating our first 2D game while implementing ideas of User Interfaces. Students will create a two scene game wiht one scene being a main menu and a second that's gameplay. The student will also begin to learn about the basic elements of C# and how to use it to manipulate games.
 
-* [Lab 1](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%205/Lab%202.pdf)
-* [Lab 1 Project Files](https://github.com/Sgrygorczuk/Lab_Unity_2D_And_User_Interface)
-* [Lab 1 Submission](https://forms.gle/XZjKr9dakH4TPAHy8)
+* [Lab 2](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%205/Lab%202.pdf)
+* [Lab 2 Project Files](https://github.com/Sgrygorczuk/Lab_Unity_2D_And_User_Interface)
+* [Lab 2 Submission](https://forms.gle/XZjKr9dakH4TPAHy8)
   
 - - - -
