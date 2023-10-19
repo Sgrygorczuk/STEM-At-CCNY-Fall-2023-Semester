@@ -66,5 +66,6 @@ Putting the lessons to the test and creating our first 2D game while implementin
 * [Lab 2](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%205/Lab%202.pdf)
 * [Lab 2 Project Files](https://github.com/Sgrygorczuk/Lab_Unity_2D_And_User_Interface)
 * [Lab 2 Submission](https://forms.gle/XZjKr9dakH4TPAHy8)
-  
+* [Extra](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%205/Extra.pdf)
+* [Extra Project Files](https://github.com/Sgrygorczuk/Crabber)
 - - - -
