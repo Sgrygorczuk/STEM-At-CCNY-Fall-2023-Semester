@@ -68,4 +68,14 @@ Putting the lessons to the test and creating our first 2D game while implementin
 * [Lab 2 Submission](https://forms.gle/XZjKr9dakH4TPAHy8)
 * [Extra](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%205/Extra.pdf)
 * [Extra Project Files](https://github.com/Sgrygorczuk/Crabber)
+  
+- - - -
+
+## Week 6: Game Programming ##
+We continue to learn about the basic elements of C# and how to use it to manipulate games.
+
+* [Homework 4](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%206/Homework%204-%20Unity%20Programming.pdf)
+* [Homework 4 Project Files](https://github.com/Sgrygorczuk/Homework_Programming)
+* [Homework 4 Submission](https://forms.gle/Noym3HkXZ67KFTLV6)
+  
 - - - -
