@@ -79,3 +79,12 @@ We continue to learn about the basic elements of C# and how to use it to manipul
 * [Homework 4 Submission](https://forms.gle/Noym3HkXZ67KFTLV6)
   
 - - - -
+
+## Week 7: Programming Flappy Bird ##
+The class will program a Flappy Bird game, allowing you to learn the programming skills that are part of the Unity script library.
+
+* [Lab 3](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%207/Lab%203%20Programming.pdf)
+* [Lab 3 Project Files](https://github.com/Sgrygorczuk/Lab_Programming_Flappy_Bird)
+* [Lab 3 Submission](https://forms.gle/44AhNURsEMaWHddD7)
+  
+- - - -
