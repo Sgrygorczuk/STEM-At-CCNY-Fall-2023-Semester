@@ -88,3 +88,14 @@ The class will program a Flappy Bird game, allowing you to learn the programming
 * [Lab 3 Submission](https://forms.gle/44AhNURsEMaWHddD7)
   
 - - - -
+
+## Week 8: Programming Flappy Bird ##
+The students will learn how to polish up our game by adding animations, lighting, audio, and particle effect systems.
+
+* [Lesson 6](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%208/Lesson_8.pdf)
+* [Lesson 6 Project Files](https://github.com/Sgrygorczuk/Homework_Lesson_Animation_Audio_Lighting_Effects)
+* [Homework 5](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%208/Homework%205%20-%20Animation%20Audio%20Lighting%20Effects.pdf)
+* [Homework 5 Project Files](https://github.com/Sgrygorczuk/Homework_Lesson_Animation_Audio_Lighting_Effects)
+* [Homework 5 Submission](https://forms.gle/TSEGew9mhEBatfwU6)
+  
+- - - -
