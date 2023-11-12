@@ -99,3 +99,12 @@ The students will learn how to polish up our game by adding animations, lighting
 * [Homework 5 Submission](https://forms.gle/TSEGew9mhEBatfwU6)
   
 - - - -
+
+## Week 9: Pixel Quest ##
+Students will create a 2D platformer from strach, creating a main menu, level, giving it animation and sound effects, in preparation for them creating their own games.
+
+* [Lab 4](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%209/Lab%20-%20Pixel%20Quest.pdf)
+* [Lab 4 Project Files](https://github.com/Sgrygorczuk/Lab_Pixel_Quest)
+* [Lab 4 Submission](https://forms.gle/yxBVsHxmR8GsQxbJ8)
+  
+- - - -
