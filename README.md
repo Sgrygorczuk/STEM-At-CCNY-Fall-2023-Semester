@@ -106,5 +106,15 @@ Students will create a 2D platformer from strach, creating a main menu, level, g
 * [Lab 4](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%209/Lab%20-%20Pixel%20Quest.pdf)
 * [Lab 4 Project Files](https://github.com/Sgrygorczuk/Lab_Pixel_Quest)
 * [Lab 4 Submission](https://forms.gle/yxBVsHxmR8GsQxbJ8)
+* [Homework 6 Submission](https://forms.gle/R5Qeermuu9XDaF7MA)
   
 - - - -
+
+## Week 10: Game Desing Document ##
+Students will fill out the game desing document and being creating their own games
+
+* [GDD](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%2010/GDD.pdf)
+* [Pixel Quest GDD Example](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Week%2010/Pixel%20Quest%20GDD%20Example.pdf)
+  
+- - - -
+
