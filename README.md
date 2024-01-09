@@ -118,3 +118,19 @@ Students will fill out the game desing document and being creating their own gam
   
 - - - -
 
+## Week 11 - 12: Game Development ##
+Students work on creating their own games.
+
+* [Student Final Projects](https://orczuk.itch.io/stem-instiute-at-ccny-2023-fall-semester)
+* [Video of the Final Projects](https://www.youtube.com/watch?v=SYWOFls3vqU)
+  
+- - - -
+
+## Week 13: What To Do Next With Your New Skills ##
+Students show off their games and we disscus what they can do after the class with their new found skilss 
+
+* [How to Further Your Skills](https://github.com/Sgrygorczuk/STEM-At-CCNY-Fall-2023-Semester/blob/main/Weel%2013/How%20to%20Further%20Your%20Skills.pdf)
+  
+- - - -
+
+
